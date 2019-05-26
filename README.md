@@ -1,2 +1,2 @@
 # calculo-orcamento
-aplicação de orçamento e despesas com js vanilla
+aplicação de controle de orçamentos e despesas com js vanilla, html5 e css3.
